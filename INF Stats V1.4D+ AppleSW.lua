@@ -1,6 +1,6 @@
 AppleSettings = {
-    SlotNamekian = "Slot2",
-    SlotMain = "Slot1",
+    SlotNamekian = "Slot1",
+    SlotMain = "Slot2",
     KamiChatDelay = 0.3,
     WaitStart =1.7,
     EnableLag = false,
